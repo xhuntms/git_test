@@ -1,0 +1,1 @@
+Adding some text to my hello world file to understand git status a little more
